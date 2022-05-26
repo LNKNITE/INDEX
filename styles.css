@@ -3,7 +3,7 @@ body {
 }
 
 html { 
-  background: url("https://github.com/LNKNITE/resources/blob/main/images/FB_IMG_15887030292886635.jpg") no-repeat center center fixed; 
+  background: url(img/FB_IMG_15887030292886635.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
