@@ -1,5 +1,5 @@
 # INDEX
-using HTML, CSS and JavaScript.
+using HTML, CSS and Javascript.
 
 # Screenshot
 on android
