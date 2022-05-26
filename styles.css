@@ -20,3 +20,13 @@ div.body {
   background: rgba(0, 0, 0, 0.4);
   color: #FFFFFF
 }
+
+div.foot {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
+}
